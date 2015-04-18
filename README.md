@@ -7,6 +7,7 @@
 - Object Orientated JavaScript
 - JavaScript the Good Parts
 - JavaScript Ninja
+- JavaScript Animation
 
 ## Tutorials
 - Angular
