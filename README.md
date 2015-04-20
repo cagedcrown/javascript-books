@@ -1,4 +1,4 @@
-# Javascript Books / Tutorials / Resources
+# JavaScript Books / Tutorials / Resources
 This is a collection of all of the books related to JavaScript that I am interested in.
 
 ## JavaScript & jQuery
@@ -23,6 +23,8 @@ This is a collection of all of the books related to JavaScript that I am interes
 
 ## Data Visualization
 - D3.js
+- HighCharts.js
 
 ## Resources
+- Project Euler
 - [The Odin Project](http://www.theodinproject.com/home)
