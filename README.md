@@ -26,5 +26,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - Practical Node.js: Building Real-World Scalable Web Apps
 
 ## Other
+- [jstherightway.org](http://jstherightway.org/)
+- [NodeJS API](https://nodejs.org/api/)
 - Project Euler
 - [The Odin Project](http://www.theodinproject.com/home)
