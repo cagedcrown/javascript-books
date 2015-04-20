@@ -1,6 +1,7 @@
 # Javascript Books / Tutorials / Resources
+This is a collection of all of the books related to JavaScript that I am interested in.
 
-## Books
+## JavaScript & jQuery
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [JavaScript and jQuery by Jon Duckett](http://javascriptbook.com/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -16,6 +17,12 @@
 - Node.js the right way
 - Node.js, MongoDB, and AngularJS Web Development
 - Practical Node.js: Building Real-World Scalable Web Apps
+
+## React
+- React Tutorial
+
+## Data Visualization
+- D3.js
 
 ## Resources
 - [The Odin Project](http://www.theodinproject.com/home)
