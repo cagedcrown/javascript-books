@@ -18,10 +18,10 @@ This is a collection of all of the books related to JavaScript that I have read/
 - HighCharts.js
 
 ## Angular
-- PhoneCat Tutorial
+- [PhoneCat Tutorial](https://docs.angularjs.org/tutorial/)
 
 ## React
-- React Tutorial
+- [React Tutorial - Make a Simple To-Do App](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial)
 
 ## Node.js
 - Node.js the right way
