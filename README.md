@@ -18,15 +18,21 @@ This is a collection of all of the books related to JavaScript that I have read/
 - HighCharts.js
 
 ## Angular
+- [Thinkster - A better way to learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
+- [Egghead - AngularJS Tutorial](https://egghead.io/technologies/angularjs?order=ASC)
 - [PhoneCat Tutorial](https://docs.angularjs.org/tutorial/)
 
 ## React
+- [Egghead - React Tutorial](https://egghead.io/technologies/react?order=ASC)
 - [React Tutorial - Make a Simple To-Do App](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial)
 
 ## Node.js
 - Node.js the right way
 - Node.js, MongoDB, and AngularJS Web Development
 - Practical Node.js: Building Real-World Scalable Web Apps
+
+## MEAN Stack
+- [Thinkster - MEAN Stack Tutorial](https://thinkster.io/mean-stack-tutorial/)
 
 ## Useful Articles & Blog Posts
 - [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
