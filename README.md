@@ -14,8 +14,8 @@ This is a collection of all of the books related to JavaScript that I have read/
 
 ## Animation & Data Visualization
 - [Web Animation Using JavaScript](http://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665/ref=sr_1_1?s=books&ie=UTF8&qid=1429358845&sr=1-1&keywords=javascript+animation)
-- D3.js
-- HighCharts.js
+- [D3.js](http://d3js.org/)
+- [HighCharts.js](http://www.highcharts.com/)
 
 ## Angular
 - [Thinkster - A better way to learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
@@ -52,7 +52,6 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Closures in JavaScript](http://www.kirupa.com/html5/closures_in_javascript.htm)
 - [Introduction to Easing in JavaScript](http://www.kirupa.com/html5/introduction_to_easing_in_javascript.htm)
 - [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-
 
 ## Other
 - [jstherightway.org](http://jstherightway.org/)
