@@ -27,9 +27,10 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [React Tutorial - Make a Simple To-Do App](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial)
 
 ## Node.js
-- Node.js the right way
-- Node.js, MongoDB, and AngularJS Web Development
-- Practical Node.js: Building Real-World Scalable Web Apps
+- [Node.js the right way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734)
+- [Node.js, MongoDB, and AngularJS Web Development]()
+- [Practical Node.js: Building Real-World Scalable Web Apps](http://www.apress.com/9781430265955)
+- [NodeJS GitHub Repo](https://github.com/Pana/node-books)
 
 ## MongoDB
 - [MongoDB.org](https://www.mongodb.org/)
