@@ -63,3 +63,4 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [NodeJS API](https://nodejs.org/api/)
 - [Project Euler](https://projecteuler.net/)
 - [The Odin Project](http://www.theodinproject.com/home)
+- [Code - tutsplus.com](http://code.tutsplus.com/)
