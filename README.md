@@ -1,5 +1,5 @@
 # JavaScript Books / Tutorials / Resources
-This is a collection of all of the books related to JavaScript that I have read/interested in reading.
+This is a collection of all of the books related to JavaScript that I have read/interested in reading. Feel free to them out and pass them along!
 
 ## JavaScript & jQuery
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
