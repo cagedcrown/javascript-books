@@ -28,7 +28,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 
 ## Node.js
 - [Node.js the right way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734)
-- [Node.js, MongoDB, and AngularJS Web Development]()
+- [Node.js, MongoDB, and AngularJS Web Development](https://github.com/bwdbooks/nodejs-mongodb-angularjs-web-development)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://www.apress.com/9781430265955)
 - [NodeJS GitHub Repo](https://github.com/Pana/node-books)
 
