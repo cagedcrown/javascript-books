@@ -15,6 +15,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 ## Animation & Data Visualization
 - [Web Animation Using JavaScript](http://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665/ref=sr_1_1?s=books&ie=UTF8&qid=1429358845&sr=1-1&keywords=javascript+animation)
 - [D3.js](http://d3js.org/)
+- [Dashing D3](https://www.dashingd3js.com/table-of-contents)
 - [HighCharts.js](http://www.highcharts.com/)
 
 ## Angular
