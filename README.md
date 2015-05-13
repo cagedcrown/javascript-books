@@ -31,6 +31,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Node.js, MongoDB, and AngularJS Web Development](https://github.com/bwdbooks/nodejs-mongodb-angularjs-web-development)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://www.apress.com/9781430265955)
 - [NodeJS GitHub Repo](https://github.com/Pana/node-books)
+- [NodeJS API](https://nodejs.org/api/)
 
 ## MongoDB
 - [MongoDB.org](https://www.mongodb.org/)
@@ -60,7 +61,6 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [JavaScript Testing Recipes](JavaScript Testing Recipes)
 - [Test Driven JavaScript Development](http://tddjs.com/)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
-- [NodeJS API](https://nodejs.org/api/)
 - [Project Euler](https://projecteuler.net/)
 - [The Odin Project](http://www.theodinproject.com/home)
 - [Code - tutsplus.com](http://code.tutsplus.com/)
