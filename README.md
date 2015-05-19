@@ -13,6 +13,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Human JavaScript](http://humanjavascript.com/)
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
 - [r/javascript](http://reddit.com/r/javascript)
+- [r/frontend](http://reddit.com/r/frontend)
 
 ## Animation & Data Visualization
 - [Web Animation Using JavaScript](http://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665/ref=sr_1_1?s=books&ie=UTF8&qid=1429358845&sr=1-1&keywords=javascript+animation)
