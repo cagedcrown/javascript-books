@@ -31,6 +31,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [How I learned to stop worrying and love React](http://firstdoit.com/react-1/)
 - [Egghead - React Tutorial](https://egghead.io/technologies/react?order=ASC)
 - [React Tutorial - Make a Simple To-Do App](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial)
+- [r/reactjs](http://www.reddit.com/r/reactjs/)
 
 ## Node.js
 - [Node.js the right way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734)
