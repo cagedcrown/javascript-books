@@ -65,6 +65,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 ## [ES6 Draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
 
 ## Other
+- [Top 10 things a beginner must know about JavaScript](top ten things a beginner must know about JavaScript)
 - [jstherightway.org](http://jstherightway.org/)
 - [https://github.com/rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 - [JavaScript Testing Recipes](JavaScript Testing Recipes)
