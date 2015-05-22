@@ -62,10 +62,13 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Closures in JavaScript](http://www.kirupa.com/html5/closures_in_javascript.htm)
 - [Introduction to Easing in JavaScript](http://www.kirupa.com/html5/introduction_to_easing_in_javascript.htm)
 - [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+- [Best Resources to Become a JavaScript Pro in 2015](http://jspadawan.com/javascript-resources/)
 
 ## [ES6 Draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
+- [Babel](https://babeljs.io/docs/learn-es6/)
 
 ## Other
+- [js books](http://jsbooks.revolunet.com/)
 - [Top 10 things a beginner must know about JavaScript](top ten things a beginner must know about JavaScript)
 - [jstherightway.org](http://jstherightway.org/)
 - [https://github.com/rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
