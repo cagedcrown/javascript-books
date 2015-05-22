@@ -12,6 +12,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Object Orientated JavaScript](http://www.amazon.com/Object-Oriented-JavaScript-Edition-Stoyan-Stefanov/dp/1849693129/ref=dp_ob_title_bk)
 - [Human JavaScript](http://humanjavascript.com/)
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
+- [jQuery Snippets](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 - [r/javascript](http://reddit.com/r/javascript)
 - [r/frontend](http://reddit.com/r/frontend)
 
