@@ -21,6 +21,9 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [D3.js](http://d3js.org/)
 - [Dashing D3](https://www.dashingd3js.com/table-of-contents)
 - [HighCharts.js](http://www.highcharts.com/)
+- [threejs](http://threejs.org/)
+- [learning webgl](http://learningwebgl.com/blog/)
+- [Getting started with webgl](https://developer.mozilla.org/en-US/docs/Web/WebGL/Getting_started_with_WebGL)
 
 ## Angular
 - [Thinkster - A better way to learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
