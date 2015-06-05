@@ -2,6 +2,7 @@
 This is a collection of all of the books related to JavaScript that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn JavaScript! I am also updating a similar [Ruby/Rails Repo](https://github.com/cagedcrown/javascript-books).
 
 ## JavaScript & jQuery
+- [JavaScript Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [JavaScript and jQuery by Jon Duckett](http://javascriptbook.com/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -13,8 +14,12 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Human JavaScript](http://humanjavascript.com/)
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
 - [jQuery Snippets](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
+- [JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## JavaScript Communities
 - [r/javascript](http://reddit.com/r/javascript)
 - [r/frontend](http://reddit.com/r/frontend)
+- [JSConf](http://jsconf.com/)
 
 ## Animation & Data Visualization
 - [Web Animation Using JavaScript](http://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665/ref=sr_1_1?s=books&ie=UTF8&qid=1429358845&sr=1-1&keywords=javascript+animation)
@@ -30,9 +35,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Egghead - AngularJS Tutorial](https://egghead.io/technologies/angularjs?order=ASC)
 - [PhoneCat Tutorial](https://docs.angularjs.org/tutorial/)
 
-## Backbone
-
-## React
+## React / Flux
 - [Awesome React Resources](https://github.com/enaqx/awesome-react)
 - [How I learned to stop worrying and love React](http://firstdoit.com/react-1/)
 - [Egghead - React Tutorial](https://egghead.io/technologies/react?order=ASC)
@@ -41,6 +44,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Learn React](http://learnreact.com/lessons)
 
 ## Node.js
+- [Mastering Node](https://github.com/visionmedia/masteringnode)
 - [Node.js the right way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734)
 - [Node.js, MongoDB, and AngularJS Web Development](https://github.com/bwdbooks/nodejs-mongodb-angularjs-web-development)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://www.apress.com/9781430265955)
@@ -84,6 +88,6 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Project Euler](https://projecteuler.net/)
 - [The Odin Project](http://www.theodinproject.com/home)
 - [Code - tutsplus.com](http://code.tutsplus.com/)
-- [JSConf](http://jsconf.com/)
+
 
 If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. Happy coding!
