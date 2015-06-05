@@ -30,12 +30,15 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Egghead - AngularJS Tutorial](https://egghead.io/technologies/angularjs?order=ASC)
 - [PhoneCat Tutorial](https://docs.angularjs.org/tutorial/)
 
+## Backbone
+
 ## React
 - [Awesome React Resources](https://github.com/enaqx/awesome-react)
 - [How I learned to stop worrying and love React](http://firstdoit.com/react-1/)
 - [Egghead - React Tutorial](https://egghead.io/technologies/react?order=ASC)
 - [React Tutorial - Make a Simple To-Do App](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial)
 - [r/reactjs](http://www.reddit.com/r/reactjs/)
+- [Learn React](http://learnreact.com/lessons)
 
 ## Node.js
 - [Node.js the right way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734)
@@ -67,7 +70,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 - [Best Resources to Become a JavaScript Pro in 2015](http://jspadawan.com/javascript-resources/)
 
-## [ES6 Draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
+## [EcmaScript 6 Draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
 - [Babel](https://babeljs.io/docs/learn-es6/)
 
 ## Other
@@ -81,3 +84,4 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Project Euler](https://projecteuler.net/)
 - [The Odin Project](http://www.theodinproject.com/home)
 - [Code - tutsplus.com](http://code.tutsplus.com/)
+- [JSConf](http://jsconf.com/)
