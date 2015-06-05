@@ -1,5 +1,5 @@
 # JavaScript Books / Tutorials / Resources
-This is a collection of all of the books related to JavaScript that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn JavaScript! I am also updating a similar [Ruby/Rails Repo](https://github.com/cagedcrown/javascript-books).
+This is a collection of all of the books related to JavaScript that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn JavaScript! I am also updating a similar [Ruby/Rails Repo](https://github.com/cagedcrown/ruby-books).
 
 ## JavaScript & jQuery
 - [JavaScript Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
