@@ -1,10 +1,8 @@
-# JavaScript Books / Tutorials / Resources
 This is a collection of all of the books related to JavaScript that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn JavaScript! I am also updating a similar [Ruby/Rails Repo](https://github.com/cagedcrown/ruby-books).
 
-## JavaScript & jQuery
+## JavaScript
 - [JavaScript Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
-- [JavaScript and jQuery by Jon Duckett](http://javascriptbook.com/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Principles of Object-Orientated JavaScript](http://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404/ref=pd_sim_b_6?ie=UTF8&refRID=1Q6WPTR19SH5HGHS2V5R)
 - [JavaScript the Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
@@ -13,8 +11,12 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Object Orientated JavaScript](http://www.amazon.com/Object-Oriented-JavaScript-Edition-Stoyan-Stefanov/dp/1849693129/ref=dp_ob_title_bk)
 - [Human JavaScript](http://humanjavascript.com/)
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
-- [jQuery Snippets](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 - [JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+### jQuery
+- [JavaScript and jQuery by Jon Duckett](http://javascriptbook.com/)
+- [jQuery Learning Center](http://learn.jquery.com/)
+- [jQuery Snippets](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 
 ## JavaScript Communities
 - [r/javascript](http://reddit.com/r/javascript)
@@ -30,12 +32,16 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [learning webgl](http://learningwebgl.com/blog/)
 - [Getting started with webgl](https://developer.mozilla.org/en-US/docs/Web/WebGL/Getting_started_with_WebGL)
 
-## Angular
+## JavaScript Frameworks
+- [Thinkster - MEAN Stack Tutorial](https://thinkster.io/mean-stack-tutorial/)
+- [Single Page Web App Tutorial](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
+
+### Angular
 - [Thinkster - A better way to learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
 - [Egghead - AngularJS Tutorial](https://egghead.io/technologies/angularjs?order=ASC)
 - [PhoneCat Tutorial](https://docs.angularjs.org/tutorial/)
 
-## React / Flux
+### React / Flux
 - [Awesome React Resources](https://github.com/enaqx/awesome-react)
 - [How I learned to stop worrying and love React](http://firstdoit.com/react-1/)
 - [Egghead - React Tutorial](https://egghead.io/technologies/react?order=ASC)
@@ -43,7 +49,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [r/reactjs](http://www.reddit.com/r/reactjs/)
 - [Learn React](http://learnreact.com/lessons)
 
-## Node.js
+### Node.js
 - [Mastering Node](https://github.com/visionmedia/masteringnode)
 - [Node.js the right way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734)
 - [Node.js, MongoDB, and AngularJS Web Development](https://github.com/bwdbooks/nodejs-mongodb-angularjs-web-development)
@@ -51,14 +57,10 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [NodeJS GitHub Repo](https://github.com/Pana/node-books)
 - [NodeJS API](https://nodejs.org/api/)
 
-## MongoDB
+### MongoDB
 - [MongoDB.org](https://www.mongodb.org/)
 - [Getting started](http://docs.mongodb.org/getting-started/shell/)
 - [MongoDB University](https://university.mongodb.com/)
-
-## MEAN Stack
-- [Thinkster - MEAN Stack Tutorial](https://thinkster.io/mean-stack-tutorial/)
-- [Single Page Web App Tutorial](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
 
 ## Useful Articles & Blog Posts
 - [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
@@ -88,6 +90,5 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Project Euler](https://projecteuler.net/)
 - [The Odin Project](http://www.theodinproject.com/home)
 - [Code - tutsplus.com](http://code.tutsplus.com/)
-
 
 If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. Happy coding!
