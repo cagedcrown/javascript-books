@@ -91,4 +91,6 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [The Odin Project](http://www.theodinproject.com/home)
 - [Code - tutsplus.com](http://code.tutsplus.com/)
 
-If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. Happy coding!
+---
+
+If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. You can also follow me on [Twitter: @cagedcrown](http://twitter.com/cagedcrown).
