@@ -1,5 +1,5 @@
 # JavaScript Books / Tutorials / Resources
-This is a collection of all of the books related to JavaScript that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn JavaScript!
+This is a collection of all of the books related to JavaScript that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn JavaScript! I am also updating a similar [Ruby/Rails Repo](https://github.com/cagedcrown/javascript-books).
 
 ## JavaScript & jQuery
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -85,3 +85,5 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [The Odin Project](http://www.theodinproject.com/home)
 - [Code - tutsplus.com](http://code.tutsplus.com/)
 - [JSConf](http://jsconf.com/)
+
+If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. Happy coding!
