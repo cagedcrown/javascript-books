@@ -18,9 +18,10 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [jQuery Learning Center](http://learn.jquery.com/)
 - [jQuery Snippets](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 
-## JavaScript Communities
+## Online Communities
 - [r/javascript](http://reddit.com/r/javascript)
 - [r/frontend](http://reddit.com/r/frontend)
+- [r/node](http://www.reddit.com/r/node/)
 - [JSConf](http://jsconf.com/)
 
 ## Animation & Data Visualization
@@ -37,6 +38,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Single Page Web App Tutorial](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
 
 ### Angular
+- [Awesome Angular](https://github.com/gianarb/awesome-angularjs)
 - [Thinkster - A better way to learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
 - [Egghead - AngularJS Tutorial](https://egghead.io/technologies/angularjs?order=ASC)
 - [PhoneCat Tutorial](https://docs.angularjs.org/tutorial/)
@@ -49,13 +51,20 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [r/reactjs](http://www.reddit.com/r/reactjs/)
 - [Learn React](http://learnreact.com/lessons)
 
-### Node.js
+### Node
 - [Mastering Node](https://github.com/visionmedia/masteringnode)
 - [Node.js the right way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734)
 - [Node.js, MongoDB, and AngularJS Web Development](https://github.com/bwdbooks/nodejs-mongodb-angularjs-web-development)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://www.apress.com/9781430265955)
 - [NodeJS GitHub Repo](https://github.com/Pana/node-books)
 - [NodeJS API](https://nodejs.org/api/)
+- [NodeSchool](http://nodeschool.io/)
+- [Node GitHub Repo](https://github.com/joyent/node)
+- [Awesome Node](https://github.com/sindresorhus/awesome-nodejs)
+
+### Express
+- [Express](http://expressjs.com/)
+- [Express GitHub Repo](https://github.com/strongloop/express)
 
 ### MongoDB
 - [MongoDB.org](https://www.mongodb.org/)
@@ -77,6 +86,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Best Resources to Become a JavaScript Pro in 2015](http://jspadawan.com/javascript-resources/)
 
 ## [EcmaScript 6 Draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
+- [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
 - [Babel](https://babeljs.io/docs/learn-es6/)
 
 ## Other
