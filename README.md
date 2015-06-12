@@ -100,7 +100,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Project Euler](https://projecteuler.net/)
 - [The Odin Project](http://www.theodinproject.com/home)
 - [Code - tutsplus.com](http://code.tutsplus.com/)
-
+- [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 ---
 
 If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. You can also follow me on [Twitter: @cagedcrown](http://twitter.com/cagedcrown).
