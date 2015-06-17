@@ -90,6 +90,7 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Babel](https://babeljs.io/docs/learn-es6/)
 
 ## Other
+- [JavaScript.com](http://javascript.com)
 - [js books](http://jsbooks.revolunet.com/)
 - [Top 10 things a beginner must know about JavaScript](top ten things a beginner must know about JavaScript)
 - [jstherightway.org](http://jstherightway.org/)
@@ -102,6 +103,8 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [Code - tutsplus.com](http://code.tutsplus.com/)
 - [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 - [Watch and Code](https://watchandcode.com/)
+
+
 ---
 
 If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. You can also follow me on [Twitter: @cagedcrown](http://twitter.com/cagedcrown).
