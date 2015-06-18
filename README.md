@@ -85,7 +85,8 @@ This is a collection of all of the books related to JavaScript that I have read/
 - [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 - [Best Resources to Become a JavaScript Pro in 2015](http://jspadawan.com/javascript-resources/)
 
-## [EcmaScript 6 Draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
+## ES6
+- [EcmaScript 6 Draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
 - [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
 - [Babel](https://babeljs.io/docs/learn-es6/)
 
